@@ -13,7 +13,7 @@
 | Package | BioC-devel | BioC-release |
 |:----------------:|:----------------:|:----------------:|
 | [_bayNorm_](https://github.com/WT215/bayNorm) | [![](http://bioconductor.org/shields/build/devel/bioc/bayNorm.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/bayNorm/) |[![](http://bioconductor.org/shields/build/release/bioc/bayNorm.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/bayNorm) |
-| [_bayNormJL_](https://github.com/WT215/bayNormJL.jl|
+| [_bayNormJL_](https://github.com/WT215/bayNormJL.jl)|
 
 
 
