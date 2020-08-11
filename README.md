@@ -7,6 +7,13 @@
 
 [![Wenhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=wt215)](https://github.com/anuraghazra/github-readme-stats)
 
+
+### As maintainer
+
+| Package | BioC-devel | BioC-release |
+|:----------------:|:----------------:|:----------------:|
+| [_bayNorm_](https://github.com/WT215/bayNorm) | [![](http://bioconductor.org/shields/build/devel/bioc/bayNorm.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/bayNorm/) |[![](http://bioconductor.org/shields/build/release/bioc/bayNorm.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/bayNorm) |
+
 <!--
 **WT215/WT215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
